@@ -72,7 +72,7 @@ react-dashboard-app/
 
 5. Contributors
 
-- [Your Name]
+- Pujari Nikitha
 
 6. License
 
